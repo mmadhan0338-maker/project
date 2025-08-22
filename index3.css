@@ -1,0 +1,27 @@
+/* General page styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+/* Headings */
+h1 {
+  color: #0066cc;
+  text-align: center;
+}
+
+h2 {
+  color: #444;
+  margin-top: 20px;
+}
+
+/* Paragraphs */
+p {
+  line-height: 1.6;
+}
+
+/* Links */
+a {
+  color: #0066cc;
